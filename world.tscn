@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://biufn5dy5j6ry"]
+
+[node name="World" type="Node2D"]
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_left = 263.0
+offset_top = 110.0
+offset_right = 926.0
+offset_bottom = 435.0
+text = "
+
+This is the main world of the game"
